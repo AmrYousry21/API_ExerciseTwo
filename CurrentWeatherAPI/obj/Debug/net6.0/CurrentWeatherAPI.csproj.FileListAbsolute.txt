@@ -1,0 +1,17 @@
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\bin\Debug\net6.0\CurrentWeatherAPI.exe
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\bin\Debug\net6.0\CurrentWeatherAPI.deps.json
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\bin\Debug\net6.0\CurrentWeatherAPI.runtimeconfig.json
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\bin\Debug\net6.0\CurrentWeatherAPI.dll
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\bin\Debug\net6.0\CurrentWeatherAPI.pdb
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\obj\Debug\net6.0\CurrentWeatherAPI.csproj.AssemblyReference.cache
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\obj\Debug\net6.0\CurrentWeatherAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\obj\Debug\net6.0\CurrentWeatherAPI.AssemblyInfoInputs.cache
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\obj\Debug\net6.0\CurrentWeatherAPI.AssemblyInfo.cs
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\obj\Debug\net6.0\CurrentWeatherAPI.csproj.CoreCompileInputs.cache
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\obj\Debug\net6.0\CurrentWeatherAPI.csproj.CopyComplete
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\obj\Debug\net6.0\CurrentWeatherAPI.dll
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\obj\Debug\net6.0\refint\CurrentWeatherAPI.dll
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\obj\Debug\net6.0\CurrentWeatherAPI.pdb
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\obj\Debug\net6.0\CurrentWeatherAPI.genruntimeconfig.cache
+C:\Users\amryo\Repos\CurrentWeatherAPI\CurrentWeatherAPI\obj\Debug\net6.0\ref\CurrentWeatherAPI.dll
